@@ -19,7 +19,7 @@ each of these portals have associated color which corresponds to whether it's a 
 
 🎷 Music played during the cup making: The Martian – Hexadecimal 🎷
 
-One of these Portals, as the chief explorer officer for planet earth (yep... even in my portals I'm the CXO...). I find out that there's a potential life in Mars. So I assembled a team of advanced robot 🤖... 
+One of these Portals, as the chief explorer officer for planet earth (yep... even in my portals I'm the CXO...). I find out that there's a potential life in Mars. So I assembled a team of advanced robots 🤖... 
 
 		[how advance, you ask? hmmm very advanced, trust me I have seen a lot robots...]
 
