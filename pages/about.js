@@ -1,14 +1,14 @@
 import Layout from "../components/Layout";
+import ReactMarkdown from "react-markdown";
+import content from "./Ingredients";
 
 const About = ({ title, description, ...props }) => {
   return (
     <>
-      <Layout pageTitle={`${title} | About`} description={description}>
-        <h1 className="title">Welcome to my blog!</h1>
-
-        <p className="description">{description}</p>
-
+      <Layout pageTitle={`About | ${title}`} description={description}>
         <p>🚧 Under Construction 🚧 🚀</p>
+
+        <ReactMarkdown source={content} />
       </Layout>
     </>
   );
@@ -21,7 +21,7 @@ export async function getStaticProps() {
 
   return {
     props: {
-      title: configData.default.title,
+      title: configData.default.aboutTitle,
       description: configData.default.description,
     },
   };

@@ -6,11 +6,11 @@ export default function Header() {
       <header className="header">
         <nav className="nav">
           <Link href="/">
-            <a>My Blog</a>
+            <a>Main Menu</a>
           </Link>{" "}
           ||{" "}
           <Link href="/about">
-            <a>About</a>
+            <a>Ingredients</a>
           </Link>
         </nav>
       </header>
