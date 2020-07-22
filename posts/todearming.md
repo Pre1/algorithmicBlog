@@ -33,11 +33,4 @@ Exit the portal -> woke-up.
 
 
 
-		
-Side Note:
-
-These Cup(s) might have some scratch(s) / crack(s) here and there... So I might go back to them and fix them. 
-
-
-
 

@@ -21,8 +21,6 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
           <ReactMarkdown source={markdownBody} />
         </div>
 
-        <hr />
-
         <ReactMarkdown source={sideNote} />
       </article>
     </Layout>

@@ -15,11 +15,7 @@ So to put it in a one-liner (naval style, hmmm one second I'll grab something...
 		Code Kiazen — Optimized for Human-first understating.
 
 
-		
-Side Note:
-
-These Cup(s) might have some scratch(s) / crack(s) here and there... So I might go back to them and fix them. 
-
-
+kintsugis: 
+[[abec338](https://github.com/Pre1/algorithmicBlog/commit/f7e62d865bcd10eac8b31dfe4479bffb2cfab756), ]
 
 
