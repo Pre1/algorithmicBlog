@@ -4,6 +4,8 @@ import ReactMarkdown from "react-markdown";
 
 import Layout from "../../components/Layout";
 
+import sideNote from "../Features/kintsugi";
+
 export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
   if (!frontmatter) return <></>;
 
@@ -18,6 +20,10 @@ export default function BlogPost({ siteTitle, frontmatter, markdownBody }) {
         <div>
           <ReactMarkdown source={markdownBody} />
         </div>
+
+        <hr />
+
+        <ReactMarkdown source={sideNote} />
       </article>
     </Layout>
   );

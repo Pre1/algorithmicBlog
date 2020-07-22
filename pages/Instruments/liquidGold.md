@@ -1,0 +1,1 @@
+Contributions in the form of [[highlights, +Insight to a given section,  *, $]] are welcomed! Please feel free to fork the [project](https://github.com/Pre1/algorithmicBlog) and file a `PR`. Attached label at the top of `PR` will be appreciated 🙏🏽. 
