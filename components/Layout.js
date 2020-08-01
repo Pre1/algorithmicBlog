@@ -18,7 +18,10 @@ export default function Layout({ children, pageTitle, ...props }) {
       <br />
       <hr />
 
-      <footer>here ☕️</footer>
+      <footer>
+        Time for a cup of water... or whatever beverage you prefer, at the
+        moment.
+      </footer>
     </>
   );
 }
